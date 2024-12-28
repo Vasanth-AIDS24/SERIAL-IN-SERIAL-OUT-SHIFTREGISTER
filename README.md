@@ -55,10 +55,10 @@ endmodule
 ![image](https://github.com/user-attachments/assets/5d271fea-7abe-47f3-a8e5-e8a1b785dbc9)
 
 
-
+```
 Developed by:Vasanth P 
 RegisterNumber:24900136
-
+```
 */
 
 **RTL LOGIC FOR SISO Shift Register**
